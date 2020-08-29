@@ -1,3 +1,4 @@
+//Complex.java provided by Dr. Brian La Cour and Dr. Noah Davis
 import static java.lang.Math.*;
 
 public class Complex {

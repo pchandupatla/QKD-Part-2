@@ -1,3 +1,4 @@
+//Photon.java provided by Dr. Brian La Cour and Dr. Noah Davis
 import java.util.Random;
 
 public final class Photon{

@@ -1,5 +1,6 @@
-// Name: Avery Crawley
-// Name: Adam Spiegel
+//File for breaking the encryption
+
+//Eve coded in collaboration with Anshul Kumar
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -372,7 +373,6 @@ public class qkd2{
         // keyEve should be a string of n characters.
         // Use the convention '0', '1', '-'=invalid measurement, ' '=not measured
         String keyEve;
-        // TODO: Put your code here.
         StringBuilder rawKeyBuilder = new StringBuilder();
         for (int i = 0; i < outcomeEve.length(); i++)
         {

@@ -1,3 +1,5 @@
+//testPhoton.java provided by Dr. Brian la Cour and Dr. Noah Davis
+
 import java.util.Random;
 
 public class testPhoton{

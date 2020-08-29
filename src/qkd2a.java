@@ -1,6 +1,6 @@
-// TODO: Put your names here.
-// Name: 
-// Name: 
+//original encryption scheme
+
+//Alice and Bob code provided by Avery Crawley and Adam Spiegel
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -97,7 +97,6 @@ public class qkd2a {
 	}
 		//higher means increased likelihood of incorrect measurement
 		//lower means decreased likelihood of receiving photon
-		//TODO: Adjust averagePhotonNumber
 		double averagePhotonNumber = 3.5; //determines A of sent photon (must find the Goldilocks amp)
 		for (int i = 0; i < n; i++)
 		{
